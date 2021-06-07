@@ -1,5 +1,5 @@
 Puzzles
-+++++++++++++++++++++
+================
 
 Checkout some of my puzzles:
 
