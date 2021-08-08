@@ -3,7 +3,8 @@
 A big fan of puzzles! I have page [Code Breaker](https://www.facebook.com/codebreakerth/) (in Thai language) and update it regularly (along with another admin)
 
 I'm learning (i.e. copying) how to create a simple webapp for specific puzzles. Below is some:
-https://lemononmars.github.io/Crossword/
+* [Cyptic Crossword](./Crossword)
+* To be added....
 
 
 # Puzzle Hunt
