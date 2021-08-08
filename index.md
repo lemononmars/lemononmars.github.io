@@ -19,7 +19,7 @@ I also tried forking a full puzzle hunt webapp [here](http://lemononmars.pythona
 
 Manim is love. Manim is life.
 
-Check out its page and repository [here](./manim)
+Check out its page and repository [here](./manim/myprojects)
 
 # Manim slides
 
