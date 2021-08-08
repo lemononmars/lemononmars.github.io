@@ -1,3 +1,3 @@
 # Hi
 
-Nothing to read here. Visit [my homepage](lemononmars.github.io) or see [index.md](index.md)
+Nothing to read here. Visit [my homepage](https://lemononmars.github.io) or see [index.md](index.md)
