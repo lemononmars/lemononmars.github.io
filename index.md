@@ -15,7 +15,7 @@ My friend and I tried creating 4 short puzzle hunts [here](https://sites.google.
 
 I also tried forking a full puzzle hunt webapp [here](http://lemononmars.pythonanywhere.com/). I'd love to hold a full hunt event in the future!
 
-Another short puzzle website is [here](https://tbs2021puzzles.herokuapp.com/round1). It's made for Thailand Board Game Show 2021.
+Another short puzzle website is [here](https://lemononmars.github.io/tbs2021puzzles). It's made for Thailand Board Game Show 2021.
 
 # Manim
 
