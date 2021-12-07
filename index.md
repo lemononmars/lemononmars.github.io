@@ -3,7 +3,7 @@
 A big fan of puzzles! I have page [Code Breaker](https://www.facebook.com/codebreakerth/) (in Thai language) and update it regularly (along with another admin)
 
 I'm learning (i.e. copying) how to create a simple webapp for specific puzzles. Below is some:
-* [Cyptic Crossword](./Crossword)
+* [Cyptic Crossword](./puzzles/crossword)
 * To be added....
 
 
@@ -15,7 +15,7 @@ My friend and I tried creating 4 short puzzle hunts [here](https://sites.google.
 
 I also tried forking a full puzzle hunt webapp [here](http://lemononmars.pythonanywhere.com/). I'd love to hold a full hunt event in the future!
 
-Another short puzzle website is [here](https://lemononmars.github.io/tbs2021puzzles). It's made for Thailand Board Game Show 2021.
+Another short puzzle website is [here](./tbs2021puzzles). It's made for Thailand Board Game Show 2021.
 
 # Manim
 
