@@ -4,6 +4,7 @@ A big fan of puzzles! I have page [Code Breaker](https://www.facebook.com/codebr
 
 I'm learning (i.e. copying) how to create a simple webapp for specific puzzles. Below is some:
 * [Cyptic Crossword](./puzzles/crossword)
+* [Mathdle](./mathdle)
 * To be added....
 
 
