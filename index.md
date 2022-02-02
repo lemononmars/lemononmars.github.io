@@ -6,6 +6,7 @@ I'm learning (i.e. copying) how to create a simple webapp for specific puzzles. 
 * [Cyptic Crossword](./puzzles/crossword)
 * [Mathdle](./mathdle) Just like Wordle, but with math equation
 * [Boardle](./boardle) Just like Wordle, but for boardgamers
+* [TH Word Search](./thwordsearch) Pattern-maching app for Thai language
 * To be added....
 
 
